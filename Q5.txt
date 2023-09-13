@@ -1,0 +1,13 @@
+# Q5 -> Create a Node.js file that replaces the content of existing file using the File System module
+
+# ans -> to do the following task first of all we have to import the `fs` module to work with file system . 
+         
+         We  use fs.WriteFile to write on the file.  it also replaces the old contents of the file with the new ones .
+        
+
+
+
+## -> coding example or explanation is attached in `Q5.js` file . 
+
+
+new data is  written the file name 'old.txt'
