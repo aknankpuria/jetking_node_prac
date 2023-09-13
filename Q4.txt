@@ -8,3 +8,6 @@
 
 
 ## -> coding example or explanation is attached in `Q4.js` file . 
+
+
+new data is  written the file name 'newfile.txt'
