@@ -1,7 +1,8 @@
 # Q2.->  Create a Node.js file that appends the existing file with a new content using the File System module.
 
 # ans -> to do the following task first of all we have to import the `fs` module to work with file system . 
-
+         
+         We  use appendfile method to append the data in exciting file . 
         
 
 
