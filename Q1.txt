@@ -1,0 +1,17 @@
+# Q.1 Why Node.js? 
+# answer ->  Node js is popular runtime environment that enables developers to run the JavaScript (Js) outside the browser . 
+             Node uses the V8 engine to run the js . it is a most preferable choice for most of the developers due to its 
+             following features ->
+
+             1. Node.js enables us to use js for both front end and backend . 
+
+             2. Node.js provides vast eco-system of libraries and packages . we can use that with node package managers like npm or yarn .
+
+             3. it enables scalability.
+
+             4. Node .js had large community of developers . which means we can find the plenty of resources , tutorials and we can easily 
+               get the solution to our problems .  
+
+            5. node js is a cross platform , which means we can code on window and run the application on linux or unix or any other platform . 
+
+            6. node js gets time to time updates means it keeps you uptodated with the current technologies . 
