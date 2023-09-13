@@ -1,0 +1,10 @@
+# Q3 -> Create a Node.js file that opens an empty file using the File System module.
+
+# ans -> to do the following task first of all we have to import the `fs` module to work with file system . 
+         
+         We  use fs.open to create an empty file. 
+        
+
+
+
+## -> coding example or explanation is attached in `Q3.js` file . 
