@@ -15,3 +15,9 @@
             5. node js is a cross platform , which means we can code on window and run the application on linux or unix or any other platform . 
 
             6. node js gets time to time updates means it keeps you uptodated with the current technologies . 
+
+
+            So , overall we can conclude that Node.js offers a versatile and effiecient platform for building a wide range of web applications 
+            and services , making it most loving and suitable choice for every developer out there . 
+
+            
