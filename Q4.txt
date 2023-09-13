@@ -1,0 +1,10 @@
+# Q4-> Create a Node.js file that writes the file using the File System module.
+
+# ans -> to do the following task first of all we have to import the `fs` module to work with file system . 
+         
+         We  use fs.WriteFile to write on the file. 
+        
+
+
+
+## -> coding example or explanation is attached in `Q4.js` file . 
