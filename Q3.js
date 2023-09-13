@@ -3,16 +3,28 @@
 
 const fs = require('fs');
 
-const filepath ='demo.txt' ;
-
-const msgtoadd = "this is a text that has been added using fs .  this directoly comes from Q2.js file ......."
+const filepath ='newfile.txt' ;
 
 
-fs.appendFile(filepath,msgtoadd,(err)=>{
+fs.open(filepath,'w',(err , fd)=>{
     if(err) {
         console.error('yo, try again ! , some unexpected occured')
     } else {
-        console.log("File updated successfully")
+        console.log("Empty file has been created ")
+
+        fs.close(fd , (closeerr)=>{
+       
+             if (closeerr){
+                console.error("error in closing the file")
+             }else{
+                console.log("file closed successfully")
+             }
+
+        }
+        
+        )
     }
     
 });
+
+//  new file has been created in the directory . 
