@@ -2,6 +2,9 @@
 
 
 const fs = require('fs');
+import { time } from 'console';
+
+console.log(time);
 
 const filepath ='old.txt' ;
 
