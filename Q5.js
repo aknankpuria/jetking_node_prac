@@ -6,9 +6,11 @@ const time = new Date().toLocaleString();
 
 // console.log(time);
 
+let time1 = time;
+
 const filepath ='old.txt' ;
 
-const msgtoadd = " Curent Time is "+{time } +"\n Curent time is updated every time we call this program in the 'old.txt' file . this is a latest text that has been replaced by the old text in `old.txt` file . we used wrteFile method to replace the contents .  this directoly comes from Q5.js file ......."
+const msgtoadd = " Curent Time is "+{time1 } +"\n Curent time is updated every time we call this program in the 'old.txt' file . this is a latest text that has been replaced by the old text in `old.txt` file . we used wrteFile method to replace the contents .  this directoly comes from Q5.js file ......."
 
 
 fs.writeFile(filepath,msgtoadd,(err)=>{
