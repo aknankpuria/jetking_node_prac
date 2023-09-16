@@ -2,7 +2,7 @@
 
 
 const fs = require('fs');
-import { time } from 'console';
+const time = new Date().toLocaleString();
 
 console.log(time);
 
