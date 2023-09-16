@@ -1,2 +1,2 @@
- Curent Time is 16/9/2023, 11:32:41 pm
+ Curent Time is 16/9/2023, 11:36:00 pm
  Curent time is updated every time we call this program in the 'old.txt' file . this is a latest text that has been replaced by the old text in `old.txt` file . we used wrteFile method to replace the contents .  this directoly comes from Q5.js file .......
