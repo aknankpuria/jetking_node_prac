@@ -4,7 +4,7 @@
 const fs = require('fs');
 const time = new Date().toLocaleString();
 
-console.log(time);
+// console.log(time);
 
 const filepath ='old.txt' ;
 
