@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-new time 
+new time = new Date().toLocaleString();
 
 const filepath ='demo.txt' ;
 
