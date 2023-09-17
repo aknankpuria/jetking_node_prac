@@ -13,7 +13,7 @@ fs.appendFile(filepath,msgtoadd,(err)=>{
     if(err) {
         console.error('yo, try again ! , some unexpected occured')
     } else {
-        console.log("File updated successfully")
+        console.log("File updated successfully on"+time)
     }
     
 });
