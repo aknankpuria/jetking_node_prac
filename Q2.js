@@ -2,6 +2,8 @@
 
 const fs = require('fs');
 
+new time 
+
 const filepath ='demo.txt' ;
 
 const msgtoadd = "this is a text that has been added using fs .  this directoly comes from Q2.js file ......."
